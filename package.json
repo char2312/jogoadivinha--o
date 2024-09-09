@@ -1,0 +1,22 @@
+{
+  "name": "jogoadivinhacao",
+  "version": "1.0.0",
+  "description": "jogo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/char2312/jogoadivinha--o.git"
+  },
+  "keywords": [
+    "jogo"
+  ],
+  "author": "gustavo dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/char2312/jogoadivinha--o/issues"
+  },
+  "homepage": "https://github.com/char2312/jogoadivinha--o#readme"
+}
